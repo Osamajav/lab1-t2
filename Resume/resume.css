@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding:0px;
+    
+
+}
+
+#img{
+    border-radius: 50%;
+    height: 110px;
+    width: 110px;
+    border: 2px solid black;
+    margin: 20px;
+}
+hr{
+    margin-right: 100px;
+}
+.top{
+    padding: 20px;
+    margin-top: 20px;
+}
+.top li{
+    list-style-type: none;
+    text-decoration: solid;
+}
+.start{
+    padding: 50px;
+    
+}
+.start h3{
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+.start li{
+    list-style-type: none;
+    margin-left: 30px;
+
+}
